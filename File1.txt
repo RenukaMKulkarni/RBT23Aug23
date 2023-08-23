@@ -1,1 +1,2 @@
 Welcome to GIT SEssion!
+This is a 2 day workshop.
