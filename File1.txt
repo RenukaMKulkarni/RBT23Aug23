@@ -1,9 +1,9 @@
-Welcome to GIT SEssion!
-This is a 2 day workshop.
-Timings of 1st day - 10:00 - 3:00
-Line 1 added.
-PRoduction issue fixed on high priority.
-Line added.. WIP.. not completed.
-Function Bug123(){
+Welcome - to GIT SEssion!
+This - is a 2 day workshop.
+Timings - of 1st day - 10:00 - 3:00
+Line - 1 added.
+PRoduction - issue fixed on high priority.
+Line - added.. WIP.. not completed.
+Function - Bug123(){
 //Do something here......*********
 }
