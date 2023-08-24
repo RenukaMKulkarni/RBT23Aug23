@@ -8,3 +8,4 @@ function Bug123(){
 //Do something here......*********
 }
 all letter small for CR2.
+Added a line to check Local commit.
