@@ -9,3 +9,4 @@ function Bug123(){
 }
 all letter small for CR2.
 Added a line to check Local commit.
+1 line added remotely by team Member
